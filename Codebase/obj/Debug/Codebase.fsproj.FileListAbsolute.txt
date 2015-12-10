@@ -1,0 +1,8 @@
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\bin\Debug\Codebase.exe.config
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\bin\Debug\Codebase.XML
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\bin\Debug\Codebase.exe
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\bin\Debug\Codebase.pdb
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\bin\Debug\FSharp.Core.dll
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\bin\Debug\FSharp.Core.xml
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\obj\Debug\Codebase.exe
+C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\obj\Debug\Codebase.pdb
