@@ -1,7 +1,7 @@
 Codebase: "C:\Users\Binwei\Documents\GitHub\", seq
-  [("C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\Analyzer.fs", 35, 30);
-   ("C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\AssemblyInfo.fs", 42, 35);
-   ("C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\Program.fs", 10, 7);
-   ("C:\Users\Binwei\Documents\GitHub\ProjectEuler\Solver\Problem17.fs", 24, 18);
+  [("C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\Analyzer.fs", 33, 28);
+   ("C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\AssemblyInfo.fs", 41, 35);
+   ("C:\Users\Binwei\Documents\GitHub\Codebase\Codebase\Program.fs", 8, 7);
+   ("C:\Users\Binwei\Documents\GitHub\ProjectEuler\Solver\Problem17.fs", 23, 18);
    ...]
-All lines and not empty lines: ("", 397, 311)
+All lines and not empty lines: ("", 380, 309)
